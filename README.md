@@ -6,7 +6,7 @@ It allows you to enter the sheet details and category labels, then sends the dat
 ---
 
 ## 🖥️ Usage
-1. Open the google sheets spreadsheet you want to categorize its data and give '''hamed-366@sheet-categorizer-477911.iam.gserviceaccount.com''' editting access with the share button located in the top left corner
+1. Open the google sheets spreadsheet you want to categorize its data and give `hamed-366@sheet-categorizer-477911.iam.gserviceaccount.com` editting access with the share button located in the top left corner
 2. open [this link](https://hamedrz004.github.io/)
 3. Fill in the required fields:
    - Sheet ID (found in the link of your spreadsheet as shown in the photo bellow)
