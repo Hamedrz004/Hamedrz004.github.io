@@ -1,7 +1,6 @@
-# Google Sheet Categorizer (Dify Workflow)
+# Google Sheet Categorizer
 
 this AI workflow imports data from cells in your google sheets spreadsheets and categorizes the according to the categories you give it and updates your spreadsheet with the index of the group each item belongs to, in the cells you indicate.
-
 
 ---
 
