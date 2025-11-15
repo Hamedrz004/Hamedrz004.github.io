@@ -1,13 +1,13 @@
 # Google Sheet Categorizer (Dify Workflow)
 
-This project is a simple web form that connects to a [Dify](https://dify.ai) workflow for categorizing data in a Google Sheet.  
-It allows you to enter the sheet details and category labels, then sends the data securely to your workflow through a Netlify proxy.
+this AI workflow imports data from cells in your google sheets spreadsheets and categorizes the according to the categories you give it and updates your spreadsheet with the index of the group each item belongs to, in the cells you indicate.
+
 
 ---
 
 ## 🖥️ Usage
 1. Open the google sheets spreadsheet you want to categorize its data and give `hamed-366@sheet-categorizer-477911.iam.gserviceaccount.com` editting access with the share button located in the top left corner
-2. open [this link](https://hamedrz004.github.io/)
+2. open [this link](https://udify.app/workflow/iRj28loFZZ9MQ2fw)
 3. Fill in the required fields:
    - Sheet ID (found in the link of your spreadsheet as shown in the photo bellow)
      <img width="2880" height="1824" alt="Screenshot 2025-11-14 150831" src="https://github.com/user-attachments/assets/84a88f56-0908-404d-a14d-99fbd9205eee" />
